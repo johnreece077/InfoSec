@@ -1,1 +1,3 @@
 JWT service creates a time-limited token for the client to be able to submit to the fulfilment service for authorization
+
+this token will be signed with the private key of the client
